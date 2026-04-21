@@ -1,0 +1,1 @@
+bandit -r . -f txt -o report.txt
